@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignmnet6</string>
+
+    <string name="text_View_Name1">Ali Alwan</string>
+    <string name="textViewNumber1">218-409-0110</string>
+    <string name="text_View_Name2">Malik Alwan</string>
+    <string name="textViewNumber2">218-409-0780</string>
+    <string name="textViewName3">Dustin Kowal</string>
+    <string name="textViewNumber3">218-408-0560</string>
+
+
+</resources>
